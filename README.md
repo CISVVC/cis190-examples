@@ -1,5 +1,5 @@
 # Topics
-## Operating System Basics
+## [Operating System Basics](./operating-system-basics)
 > What is an operating system?  Why do I need one?
 
 ## The Command Line
