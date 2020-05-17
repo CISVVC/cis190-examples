@@ -1,4 +1,6 @@
 # Topics
+## Operating System Basics
+> What is an operating system?  Why do I need one?
 ## The Command Line
 > What is it, how does it work and how do I get to one.
 ## Files
